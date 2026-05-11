@@ -1,3 +1,5 @@
 this is file 3
 
 created on 10/05/26
+
+bug 2 is solved
