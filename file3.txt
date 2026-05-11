@@ -1,5 +1,5 @@
 this is file 3
 
-builed for practice
+created on 10/05/26
 
-bug 1 is solve
+bug 2 is solved
